@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using YaelNewProject.Repositories.Entities;
 
 namespace YaelNewProject.Repositories.Interfaces
-{
+{ /*irolrepository*/
     public interface IRoleRepository
     {
         List<Role> GetALL();
